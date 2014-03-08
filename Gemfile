@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'rspec'
+gem 'rspec', '~> 2.14'
 gem 'rspec-given'
